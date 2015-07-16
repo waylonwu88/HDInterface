@@ -1,0 +1,9 @@
+{
+  "name": "Hardware Interface",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "Hardware Interface",
+
+	"plugins": [
+    { "path": "npHDInterface.dll", "public": true }
+  ]
+}
